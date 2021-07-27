@@ -1,0 +1,16 @@
+#toptext{
+    text-align: center;
+}
+#tasksUl{
+    background-color: cornflowerblue;
+    color: cornsilk;
+    list-style: none;
+
+}
+#addTaskbtn{
+    background-color: cornflowerblue;
+    color: cornsilk;
+}
+#taskHeader{
+    display: none;
+}
